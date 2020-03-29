@@ -9,7 +9,7 @@ It crawls no reply. Crawl 'comments' ONLY
 ## usage
 
 ```bash
-## give postfix URL of your target post as python arg
+## give "postfix URL" of your target post as python arg
 ## if URL of your post is "https://www.instagram.com/p/B-TvKr_gHNm/"
 python3 crawl_comments.py B-TvKr_gHNm
 ```
