@@ -8,6 +8,23 @@ Without Selenium, it uses the way browser requests to get comments.
 
 It crawls no reply. Crawl "comments" ONLY
 
+(개발목적: 인스타그램 댓글 이벤트 추첨)
+
+## prerequisites
+python 3.8
+
+requests
+
+tqdm
+
+## changeable parameters
+```
+# Seconds to sleep btw each crawling batch (to prevent DDoS) 
+WAIT = 3
+# Crawling size of batch (Max 50)
+CRAWL_SIZE = 50
+```
+
 ## usage
 
 ```bash
