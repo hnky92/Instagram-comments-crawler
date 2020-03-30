@@ -2,9 +2,11 @@
 ## description
 Crawl Instagram comments using GET request.
 
-Without Selenium, it uses the way browser requests to get comments. --> fast, simple and stable.
+Without Selenium, it uses the way browser requests to get comments. 
 
-It crawls no reply. Crawl 'comments' ONLY
+--> fast, simple and stable.
+
+It crawls no reply. Crawl "comments" ONLY
 
 ## usage
 
@@ -15,3 +17,11 @@ python3 crawl_comments.py B-TvKr_gHNm
 ```
 ## output
 TSV format with columns of user-ID and comment.
+
+```
+id1 comment1
+id2 comment2
+id3 comment3
+id4 commnet4
+...
+```
