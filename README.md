@@ -21,7 +21,7 @@ tqdm
 ```
 # Seconds to sleep btw each crawling batch (to prevent DDoS) 
 WAIT = 3
-# Crawling size of batch (Max 50)
+# Batch size of crawling (Max 50)
 CRAWL_SIZE = 50
 ```
 
