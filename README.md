@@ -19,7 +19,7 @@ tqdm
 
 ## changeable parameters
 ```
-# Seconds to sleep btw each crawling batch (to prevent DDoS) 
+# Seconds to sleep btw each crawling iteration (to prevent DDoS) 
 WAIT = 3
 # Batch size of crawling (Max 50)
 CRAWL_SIZE = 50
