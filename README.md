@@ -11,11 +11,9 @@ It does not crawl reply. Crawl "comments" ONLY
 (개발목적: 인스타그램 댓글 이벤트 추첨)
 
 ## prerequisites
-python 3.8
-
-requests
-
-tqdm
+- python 3.8
+- requests
+- tqdm
 
 ## changeable parameters
 ```
