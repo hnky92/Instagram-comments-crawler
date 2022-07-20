@@ -6,7 +6,7 @@ Without Selenium, it uses the way browser requests to get comments.
 
 --> fast, simple and stable.
 
-It crawls no reply. Crawl "comments" ONLY
+It does not crawl reply. Crawl "comments" ONLY
 
 (개발목적: 인스타그램 댓글 이벤트 추첨)
 
